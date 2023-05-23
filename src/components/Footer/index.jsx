@@ -57,7 +57,7 @@ const Footer = () => {
                 <h1>Entre em contato:</h1>
                 <div>
                     <span><FiPhoneCall/></span>
-                    <a>+55 (92) 99279-5598</a>
+                    <a href="">+55 (92) 99279-5598</a>
                 </div>
                 <div>
                     <span><AiOutlineMail/></span>

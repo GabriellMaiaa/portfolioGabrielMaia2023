@@ -65,8 +65,8 @@ export const PictureProfile = styled.div `
   
   .img  img{
     padding-bottom: 2rem;
-    width:470px;
-    height:420px;
+    width:360px;
+    height:360px;
     border-radius:80px;
 
     :hover {
