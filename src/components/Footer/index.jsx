@@ -57,7 +57,7 @@ const Footer = () => {
                 <h1>Entre em contato:</h1>
                 <div>
                     <span><FiPhoneCall/></span>
-                    <a href="">+55 (92) 99279-5598</a>
+                    <a>+55 (92) 99279-5598</a>
                 </div>
                 <div>
                     <span><AiOutlineMail/></span>
@@ -67,9 +67,9 @@ const Footer = () => {
             <div className="profiles">
                 <h1>Cheque minhas redes</h1>
                 <div className="icons">
-                   <Zoom><span><a href=""><BsGithub/></a></span></Zoom>
-                    <Zoom><span><a href=""><FaLinkedin/></a></span></Zoom>
-                    <Zoom><span><a href=""><FaInstagram/></a></span></Zoom>
+                   <Zoom><span><a href="https://github.com/GabriellMaiaa"><BsGithub/></a></span></Zoom>
+                    <Zoom><span><a href="https://www.linkedin.com/in/gabriel-ribeiro-maia-ba786b223/"><FaLinkedin/></a></span></Zoom>
+                    <Zoom><span><a href="https://www.instagram.com/gaabrielmaia_/"><FaInstagram/></a></span></Zoom>
                 </div>
             </div>
             <ArrowUp onClick={scrollUp}><AiOutlineArrowUp/></ArrowUp>
